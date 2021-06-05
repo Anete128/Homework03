@@ -1,4 +1,4 @@
-# Homework03
+# Homework03 SortArray
 
 import java.util.Scanner;
 
